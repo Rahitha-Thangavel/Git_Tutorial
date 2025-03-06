@@ -1,1 +1,5 @@
+
 Content from branch B
+
+Content from branch A
+
